@@ -1,6 +1,6 @@
 # Video-Streaming-Service
 
-The architecture of our project setup is as shown in the figure below. 
+The architecture of our project setup is shown in the figure below. 
 
 ![System Architecture of the Project](architecture.png)
 
